@@ -1,0 +1,1 @@
+print("Mamy 21 marca 2025 roku.")
